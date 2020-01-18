@@ -1,2 +1,2 @@
-# tec-CHUA-IO
-TEC-1 Chua Circuit IO 
+# tec-CHUA
+TEC-1 Chua IO Circuit 
