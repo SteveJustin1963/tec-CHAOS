@@ -2,6 +2,7 @@
 TEC-1 Chua IO Circuit 
 
 Chua Circuit
+https://hackaday.com/2014/12/07/chaos-theory-in-practice-chuas-circuit/
 
 
 Jerk Circuit
