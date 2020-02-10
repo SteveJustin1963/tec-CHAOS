@@ -10,5 +10,5 @@ http://sprott.physics.wisc.edu/pubs/paper352.pdf
 
 CCT
 
-https://easyeda.com/editor#id=9368491e37c04dc2a8763569218296d9
+https://easyeda.com/editor#id=779fcc6cd2244514a492ee81638fc10d|6a84959be4ed48d0b693eae5d268a4dd
 
